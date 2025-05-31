@@ -18,6 +18,30 @@
           "email": "edskateicevida@gmail.com"
         },
         "timeSpent": 3
+      },
+      {
+        "date": "2025-05-31T20:40:05.363Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 10
+      },
+      {
+        "date": "2025-05-31T20:40:07.146Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 2
+      },
+      {
+        "date": "2025-05-31T20:40:18.584Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 11
       }
     ],
     "index.html.git": [
@@ -36,6 +60,32 @@
           "email": "edskateicevida@gmail.com"
         },
         "timeSpent": 52
+      },
+      {
+        "date": "2025-05-31T20:37:48.839Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 18
+      },
+      {
+        "date": "2025-05-31T20:38:40.425Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 52
+      }
+    ],
+    "style.css": [
+      {
+        "date": "2025-05-31T20:38:47.639Z",
+        "user": {
+          "name": "Edy_97_2024",
+          "email": "edskateicevida@gmail.com"
+        },
+        "timeSpent": 7
       }
     ]
   }
